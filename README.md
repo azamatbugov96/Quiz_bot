@@ -85,12 +85,6 @@ API_TOKEN=ваш_токен_бота
 python Quiz.py
 
 ---
-
-## Пример взаимодействия с ботом
-
-![alt text](https://disk.yandex.ru/client/disk?source=main-loginmenu&idApp=client&dialog=slider&idDialog=%2Fdisk%2F%D0%93%D0%BE%D1%80%D1%8B.jpg)
-
----
 ```
 
 ---
