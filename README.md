@@ -88,7 +88,7 @@ python Quiz.py
 
 ## Пример взаимодействия с ботом
 
-<img src="https://github.com/azamatbugov96/Quiz_bot/blob/main/quiz_test.png>
+![alt text](https://github.com/azamatbugov96/Quiz_bot/blob/main/quiz_help.png)
 
 ---
 ```
