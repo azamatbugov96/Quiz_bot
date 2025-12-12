@@ -88,7 +88,8 @@ python Quiz.py
 
 ## Пример взаимодействия с ботом
 
-!(quiz_test.png)
+![quiz_test.png]
+<img src="./quiz_test.png"/>
 
 ---
 ```
