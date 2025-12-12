@@ -88,7 +88,7 @@ python Quiz.py
 
 ## Пример взаимодействия с ботом
 
-<img src="/quiz_test.png">
+<img src="resources/quiz_test.png" width="200" height="50"/>
 
 ---
 ```
