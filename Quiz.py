@@ -11,7 +11,7 @@ import json
 logging.basicConfig(level=logging.INFO)
 
 # Замените "YOUR_BOT_TOKEN" на токен, который вы получили от BotFather
-API_TOKEN = '8323431024:AAHTcOuasXWq9zh5xcZPTV8L40GK0O0okac'
+API_TOKEN = 'YOUR_BOT_TOKEN'
 
 # Объект бота
 bot = Bot(token=API_TOKEN)
@@ -160,4 +160,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
